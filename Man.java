@@ -8,7 +8,7 @@ Program: WAP to print determine oldest and youngest
 
 import java.util.Scanner;
 //declaring a class
-class OldmanDemo
+class Man
 {
 	//main started
 	public static void main(String args[])
@@ -17,7 +17,7 @@ class OldmanDemo
 		Scanner sc = new Scanner(System.in);
 
 		//declaring variables
-		float Nnm=12,Num=25,Num=45;
+		float 12,25,45;
 		int oldest,youngest,among;
 
 		//taking input
